@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+address_create: https://test-stand.gb.ru/posts/create
+browser: chrome
+sleep_time: 3
+login: luwlucky
+password: a420da26f9
+sleep_time_1: 9
