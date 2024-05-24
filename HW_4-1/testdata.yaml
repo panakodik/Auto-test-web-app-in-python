@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 4
+
+login: luwlucky
+password: a420da26f9
+
+title_name: Black
+description_name: dog
+content_name: Bubble!
+
+your_name: Sharik
+your_email: Sharik@gmail.com
+your_content: Bubble!
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+
+login_1: bubudi
+password_1: 53b9480d3d
